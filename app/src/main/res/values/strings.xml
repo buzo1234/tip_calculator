@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pip Tip</string>
+    <string name="roll">Roll</string>
+    <string name="dice">dice</string>
+    <string name="from_karan">From, Karan.</string>
+    <string name="happy_birthday_buzo_you_are_the_best">Happy Birthday Buzo! You are the BEST.</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="okay_15">Okay (15%)</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_amount">Tip Amount</string>
+</resources>
